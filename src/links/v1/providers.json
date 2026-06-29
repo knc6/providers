@@ -315,6 +315,17 @@
         "homepage": "http://2dmatpedia.org",
         "link_type": "external"
       }
+    },
+    {
+      "type": "links",
+      "id": "atomgpt",
+      "attributes": {
+        "name": "AtomGPT.org",
+        "description": "JARVIS-DFT materials database served via AtomGPT.org, providing OPTIMADE access alongside AI-based materials analysis tools",
+        "base_url": "https://atomgpt.org/index/optimade",
+        "homepage": "https://atomgpt.org",
+        "link_type": "external"
+      }
     }
   ]
 }
